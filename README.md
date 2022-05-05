@@ -1,1 +1,1 @@
-# fancyrichpignft
+# samplenft
