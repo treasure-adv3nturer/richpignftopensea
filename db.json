@@ -74,45 +74,7 @@
       "value": "UNREVEALED "
     }
   ],
-  "compiler": "RICHPIGNFT"
-},
-{       
-            "id": 288,
-            "description": "Rich Pig is a collection of 10,000 algorithmically generated digital collectibles. The imagination of 21 years old boy Marc & Fiona's Ideal graphic style.",
-            "external_url": "https://richpignft.io/",
-            "image": "https://gateway.pinata.cloud/ipfs/QmQ6sBUJftLC5M5C9G4c65NTjSaZXt1Ls6FwHspkPJKQev/288.png",
-            "name": "RICHPIGNFT #288"
-            "attributes": [
-        {
-      "trait_type": "BACKGROUND",
-      "value": "UNREVEALED "
-    },
-    {
-      "trait_type": "SKIN",
-      "value": "UNREVEALED "
-    },
-    {
-      "trait_type": "CLOTHES",
-      "value": "UNREVEALED"
-    },
-    {
-      "trait_type": "NECKLACE",
-      "value": "UNREVEALED"
-    },
-    {
-      "trait_type": "BAG",
-      "value": "UNREVEALED "
-    },
-    {
-      "trait_type": "GLASSES",
-      "value": "UNREVEALED"
-    },
-    {
-      "trait_type": "ACCESSORIES",
-      "value": "UNREVEALED "
-    }
-  ],
-  "compiler": "RICHPIGNFT"
+  "compiler": "RICHPIGNFT"               
         }
     ]
 }
