@@ -1,52 +1,24 @@
 {
     "richpignftrepo": [
             {
-                "name": "RICHPIGNFT #1",
-                "description": "Rich Pig is a collection of 10,000 algorithmically generated digital collectibles. The imagination of 21 years old boy Marc & Fiona's Ideal graphic style.",
-                "image": "https://gateway.pinata.cloud/ipfs/QmeMgnjAKVUjPVmfPUSTspZ5iYUG8Miwhk7LK9FDE1eiix/1.png",
+                "name": "FRP x MINTPASS UNBOX NFT",
+                "description": "The Hidden Fancy Box",
+                "image": "https://cdn.discordapp.com/attachments/1015187500312051732/1022188355531837470/unreveal.gif",
                 "dna": "8f81a8df7c032f61f3b6c9531a9908644d7f9581",
                 "edition": 1,
                 "date": 1650146002454,
                 "attributes": [
             {
-                "trait_type": "BACKGROUND",
-                "value": "UNREVEALED "
+                "trait_type": "MINT ACCESS",
+                "value": "True"
             },
             {
-                "trait_type": "SKIN",
-                "value": "UNREVEALED "
+                "trait_type": "FANCY BOX",
+                "value": "Unrevealed"
             },
             {
-                "trait_type": "CLOTHES",
-                "value": "UNREVEALED"
-            },
-            {
-                "trait_type": "NECKLACE",
-                "value": "UNREVEALED"
-            },
-            {
-                "trait_type": "BAG",
-                "value": "UNREVEALED "
-            },
-            {
-                "trait_type": "GLASSES",
-                "value": "UNREVEALED"
-            },
-            {
-                "trait_type": "ACCESSORIES",
-                "value": "UNREVEALED "
-            },
-            {
-                "trait_type": "Shirt",
-                "value": "UNREVEALED"
-            },
-            {
-                "trait_type": "Skirt",
-                "value": "UNREVEALED"
-            },
-            {
-                "trait_type": "Socks",
-                "value": "UNREVEALED"
+                "trait_type": "NFT",
+                "value": "Randomize"
             }
             ],
                 "compiler": "RICHPIGNFT"
