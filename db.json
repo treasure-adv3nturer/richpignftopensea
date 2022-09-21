@@ -4,9 +4,8 @@
                 "name": "FRP x MINTPASS UNBOX NFT",
                 "description": "The Hidden Fancy Box",
                 "image": "https://cdn.discordapp.com/attachments/1015187500312051732/1022188355531837470/unreveal.gif",
-                "dna": "8f81a8df7c032f61f3b6c9531a9908644d7f9581",
-                "edition": 1,
-                "date": 1650146002454,
+                "creator": "https://opensea.io/0x2646b6FF5f73C3688add7790E43cAc941cC1c98D",
+                "collection": "https://opensea.io/collection/fancy-richpig-mint-pass",
                 "attributes": [
             {
                 "trait_type": "MINT ACCESS",
