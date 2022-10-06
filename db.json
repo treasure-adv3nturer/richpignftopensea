@@ -1,11 +1,10 @@
 {
-    "richpignftrepo": [
+    "metadatacreaturesparks": [
             {
-                "name": "TSOL x UNREVEAL",
-                "description": "The Hidden Tsol",
-                "image": "https://tsol.w3spaces.com/unreveal/svg.html",
-                "creator": "https://opensea.io/0x2646b6FF5f73C3688add7790E43cAc941cC1c98D",
-                "collection": "https://opensea.io/collection/tsol",
+                "name": "SPARKS CREATION",
+                "description": "Unlocked all Common traits to be used by your creature sparks",
+                "image": "https://openseauserdata.com/files/e60568e4449ea091d4be5a4cecafff94.svg",
+                "collection": "https://opensea.io/collection/fusion-sparks-creation",
                 "attributes": [
             {
                 "trait_type": "",
