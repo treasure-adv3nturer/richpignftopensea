@@ -1,10 +1,10 @@
 {
-    "metadata.json": [
+    "richpignft": [
             {
-                "name": "SPARKS CREATION",
-                "description": "Unlocked all Common traits to be used by your creature sparks",
-                "image": "https://openseauserdata.com/files/e60568e4449ea091d4be5a4cecafff94.svg",
-                "collection": "https://opensea.io/collection/fusion-sparks-creation",
+                "name": "Unreveal",
+                "description": "Unlocked all traits to be used by your fancy",
+                "image": "https://firebasestorage.googleapis.com/v0/b/fancy-rich-pig.appspot.com/o/images%2Flogo.jpg?alt=media&token=537acb85-1c33-4d4f-82eb-c626e66040fa",
+                "collection": "https://opensea.io/collection/fancyrich-pig",
                 "attributes": [
             {
                 "trait_type": "",
